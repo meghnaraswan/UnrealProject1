@@ -10240,3 +10240,1007 @@ Purging the undo buffer...
 [2021.01.12-09.23.44:836][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.01.12-09.23.44:847][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
 [2021.01.12-09.23.44:894][704]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2021.01.12-09.32.35:419][458]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-09.36.20:309][448]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.12-09.36.20:586][448]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-09.36.20:586][448]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-10.07.02:812][472]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.12-10.07.02:854][472]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-10.07.02:854][472]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-10.07.31:281][685]LogHttp: Warning: 00000197410FCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8ED2251-40F9-7692-2F33-D28F2C234A91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=9dd817cc42c22d4b7fde388986e03e77%7C263ae0e43e7b431fb0df2dda8e6a21a9%7C536bb634-42d5-41bc-b1a8-d6402a40c9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x195d0be7eb0 [can pipeline])
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.227.187.147) port 443 (#3))
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: 00000197410FCF00: libcurl info message cache 7 (Closing connection 3)
+[2021.01.12-10.07.31:282][685]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8ED2251-40F9-7692-2F33-D28F2C234A91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=9dd817cc42c22d4b7fde388986e03e77%7C263ae0e43e7b431fb0df2dda8e6a21a9%7C536bb634-42d5-41bc-b1a8-d6402a40c9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.12-10.07.48:862][354]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.01.12-10.08.10:339][172]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-10.08.10:354][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-10.08.10:354][172]PIE: New page: PIE session: FirstPersonExampleMap (Jan 11, 2021, 6:08:10 PM)
+[2021.01.12-10.08.10:355][172]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-10.08.10:422][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067093s)
+[2021.01.12-10.08.10:425][172]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-10.08.10:426][172]LogPlayLevel: PIE: World Init took: (0.003477s)
+[2021.01.12-10.08.10:426][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.071024s)
+[2021.01.12-10.08.10:496][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.01.12-10.08.10:499][172]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-10.08.10:500][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-10.08.10:500][172]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-10.08.10:500][172]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-10.08.10:507][172]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-10.08.10:507][172]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-10.08.10:514][172]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-10.08.10:515][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-10.08.10:515][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-10.08.10:515][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-10.08.10:516][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-10.08.10:516][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-10.08.10:516][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-10.08.10:532][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-10.08.10:532][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-10.08.10:532][172]LogInit: FAudioDevice initialized.
+[2021.01.12-10.08.10:532][172]LogAudio: Display: Audio Device (ID: 81) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-10.08.10:539][172]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-10.08.10:558][172]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-02.08.10
+[2021.01.12-10.08.10:559][172]LogWorld: Bringing up level for play took: 0.019470
+[2021.01.12-10.08.10:559][172]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2021.01.12-10.08.10:565][172]PIE: Server logged in
+[2021.01.12-10.08.10:566][172]PIE: Play in editor total start time 0.213 seconds.
+[2021.01.12-10.13.38:490][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-10.13.38:490][ 98]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-10.13.38:491][ 98]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-10.13.38:494][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-10.13.38:509][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-10.13.38:552][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-10.13.38:600][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-10.13.38:602][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-10.13.38:603][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-10.13.38:623][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-10.13.38:633][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.01.12-10.13.38:695][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2021.01.12-10.13.47:060][399]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-10.13.47:171][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.01.12-10.13.47:439][399]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap7AF5B06D43CF82EC6610F0A30773556C.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-10.13.48:186][399]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltData5A0E6831488CCAEA95A82EBD21A000AB.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-10.13.48:235][399]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-10.13.48:235][399]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-10.13.48:235][399]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-10.13.56:072][554]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.12-10.13.56:102][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-10.13.56:102][554]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-19.03.15:450][563]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.12-19.03.15:506][563]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-19.03.15:506][563]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-19.03.17:687][564]LogAudioMixer: Resetting audio stream to device id 
+[2021.01.12-19.03.17:846][564]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-19.03.17:846][564]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-19.03.18:005][564]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8ED2251-40F9-7692-2F33-D28F2C234A91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=9dd817cc42c22d4b7fde388986e03e77%7C263ae0e43e7b431fb0df2dda8e6a21a9%7C536bb634-42d5-41bc-b1a8-d6402a40c9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x195d0be6410 [can pipeline])
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.66.227) port 443 (#4))
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: 000001973C902B00: libcurl info message cache 7 (Closing connection 4)
+[2021.01.12-19.03.36:298][ 65]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC8ED2251-40F9-7692-2F33-D28F2C234A91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=9dd817cc42c22d4b7fde388986e03e77%7C263ae0e43e7b431fb0df2dda8e6a21a9%7C536bb634-42d5-41bc-b1a8-d6402a40c9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.01.12-19.12.38:831][510]LogRenderer: Reallocating scene render targets to support 1696x1272 Format 10 NumSamples 1 (Frame:2965677).
+[2021.01.12-19.12.39:099][510]LogRenderer: Reallocating scene render targets to support 1760x1272 Format 10 NumSamples 1 (Frame:2965679).
+[2021.01.12-19.12.39:375][510]LogRenderer: Reallocating scene render targets to support 1784x1272 Format 10 NumSamples 1 (Frame:2965681).
+[2021.01.12-19.12.39:665][510]LogRenderer: Reallocating scene render targets to support 1824x1272 Format 10 NumSamples 1 (Frame:2965683).
+[2021.01.12-19.12.39:951][510]LogRenderer: Reallocating scene render targets to support 1828x1272 Format 10 NumSamples 1 (Frame:2965685).
+[2021.01.12-19.12.41:727][510]LogRenderer: Reallocating scene render targets to support 1844x1272 Format 10 NumSamples 1 (Frame:2965695).
+[2021.01.12-19.12.41:988][510]LogRenderer: Reallocating scene render targets to support 1868x1272 Format 10 NumSamples 1 (Frame:2965697).
+[2021.01.12-19.12.42:272][510]LogRenderer: Reallocating scene render targets to support 1884x1272 Format 10 NumSamples 1 (Frame:2965699).
+[2021.01.12-19.12.42:542][510]LogRenderer: Reallocating scene render targets to support 1904x1272 Format 10 NumSamples 1 (Frame:2965701).
+[2021.01.12-19.12.42:811][510]LogRenderer: Reallocating scene render targets to support 1908x1272 Format 10 NumSamples 1 (Frame:2965703).
+[2021.01.12-19.44.28:748][829]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-19.44.37:803][856]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-19.44.37:976][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.01.12-19.44.38:236][856]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_Auto35B9E5FC04F38B9C8B657F7A7D896611D.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2021.01.12-19.44.38:253][856]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.411
+[2021.01.12-19.44.38:253][856]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.411
+[2021.01.12-19.54.29:616][206]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-19.54.38:652][233]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-19.54.38:727][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.01.12-19.54.38:983][233]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_Auto4525F3405420B24DBDCD279A13B874BC4.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2021.01.12-19.54.38:987][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.321
+[2021.01.12-19.54.38:987][233]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.321
+[2021.01.12-20.07.12:660][600]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.07.21:682][627]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.07.21:763][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.01.12-20.07.22:008][627]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_Auto5295DF7B54FF748FE2439288AA0330931.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2021.01.12-20.07.22:013][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.309
+[2021.01.12-20.07.22:013][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.309
+[2021.01.12-20.17.13:302][114]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.17.22:285][588]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.17.22:361][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.01.12-20.17.22:615][588]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_Auto656F165774B6FCDEA1967B8AF1476EDF7.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2021.01.12-20.17.22:623][588]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.321
+[2021.01.12-20.17.22:623][588]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.321
+[2021.01.12-20.17.55:176][837]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.17.55:243][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.12-20.17.55:478][837]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap3D6C6B424AA69F489A8661951A97A97B.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.17.56:203][837]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltData4375D1674B2AAF68CDE12184C4B92952.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-20.17.56:239][837]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-20.17.56:239][837]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-20.17.56:239][837]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.19.39:515][434]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.19.44:468][922]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.20.20:323][573]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.12-20.20.20:450][573]LogUObjectHash: Compacting FUObjectHashTables data took  10.02ms
+[2021.01.12-20.20.20:942][611]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.20.21:092][611]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.01.12-20.20.21:330][611]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMapD7B17B314ABBCB3E1F11468BF22F8F6D.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.20.21:351][611]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.312
+[2021.01.12-20.20.21:368][611]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.20.21:368][611]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.22.32:369][442]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.22.33:086][484]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.24.32:009][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.24.32:621][254]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.24.50:130][928]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.24.51:893][ 95]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.26.01:344][ 68]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.26.07:681][635]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.12-20.26.07:796][635]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.01.12-20.26.08:285][674]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.26.08:352][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.12-20.26.08:595][674]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap246724864BFE5BEE5BF408AE540D612C.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.26.08:614][674]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.316
+[2021.01.12-20.26.08:634][674]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.26.08:635][674]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.26.13:725][206]LogRenderer: Reallocating scene render targets to support 2216x1272 Format 10 NumSamples 1 (Frame:2970490).
+[2021.01.12-20.26.52:485][986]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-20.26.52:498][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-20.26.52:498][986]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 4:26:52 AM)
+[2021.01.12-20.26.52:521][986]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.26.52:605][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083483s)
+[2021.01.12-20.26.52:607][986]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-20.26.52:608][986]LogPlayLevel: PIE: World Init took: (0.002624s)
+[2021.01.12-20.26.52:608][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.086530s)
+[2021.01.12-20.26.52:678][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.01.12-20.26.52:680][986]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-20.26.52:680][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-20.26.52:680][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-20.26.52:681][986]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-20.26.52:681][986]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-20.26.52:743][986]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-20.26.52:743][986]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-20.26.52:753][986]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-20.26.52:753][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-20.26.52:753][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-20.26.52:754][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-20.26.52:755][986]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-20.26.52:755][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-20.26.52:755][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-20.26.52:777][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-20.26.52:777][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-20.26.52:777][986]LogInit: FAudioDevice initialized.
+[2021.01.12-20.26.52:777][986]LogAudio: Display: Audio Device (ID: 82) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-20.26.52:788][986]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-20.26.52:810][986]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-12.26.52
+[2021.01.12-20.26.52:812][986]LogWorld: Bringing up level for play took: 0.022406
+[2021.01.12-20.26.52:812][986]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2021.01.12-20.26.52:817][986]PIE: Server logged in
+[2021.01.12-20.26.52:818][986]PIE: Play in editor total start time 0.321 seconds.
+[2021.01.12-20.27.00:223][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.27.00:223][401]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.27.00:224][401]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-20.27.00:227][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.27.00:239][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-20.27.00:287][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.27.00:342][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-20.27.00:344][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.27.00:345][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.27.00:367][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.27.00:377][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.01.12-20.27.00:453][402]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2021.01.12-20.27.29:761][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-20.27.29:773][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-20.27.29:773][ 17]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 4:27:29 AM)
+[2021.01.12-20.27.29:774][ 17]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.27.29:838][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064515s)
+[2021.01.12-20.27.29:839][ 17]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-20.27.29:840][ 17]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2021.01.12-20.27.29:840][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.066532s)
+[2021.01.12-20.27.29:900][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.01.12-20.27.29:902][ 17]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-20.27.29:902][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-20.27.29:902][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-20.27.29:903][ 17]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-20.27.29:903][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-20.27.29:908][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-20.27.29:908][ 17]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-20.27.29:915][ 17]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-20.27.29:916][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-20.27.29:916][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-20.27.29:916][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-20.27.29:916][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-20.27.29:916][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-20.27.29:916][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-20.27.29:933][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-20.27.29:933][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-20.27.29:933][ 17]LogInit: FAudioDevice initialized.
+[2021.01.12-20.27.29:933][ 17]LogAudio: Display: Audio Device (ID: 83) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-20.27.29:940][ 17]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-20.27.29:961][ 17]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-12.27.29
+[2021.01.12-20.27.29:962][ 17]LogWorld: Bringing up level for play took: 0.020150
+[2021.01.12-20.27.29:962][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2021.01.12-20.27.29:966][ 17]PIE: Server logged in
+[2021.01.12-20.27.29:967][ 17]PIE: Play in editor total start time 0.196 seconds.
+[2021.01.12-20.27.45:213][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.27.45:213][ 89]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.27.45:213][ 89]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-20.27.45:216][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.27.45:230][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-20.27.45:282][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.27.45:335][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-20.27.45:337][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.27.45:338][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.27.45:365][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.27.45:375][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.01.12-20.27.45:441][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2021.01.12-20.28.04:330][440]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.28.04:396][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.01.12-20.28.04:641][440]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap26DCCA2549C35918FAAAD5A9C1BA2255.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.28.04:659][440]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.315
+[2021.01.12-20.28.04:678][440]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.28.04:678][440]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.29.50:715][439]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.29.53:134][615]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.30.02:685][288]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.30.02:729][289]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.30.02:782][290]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.30.03:144][292]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.30.46:753][321]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.31.13:834][347]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.31.14:463][410]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.31.23:639][290]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.31.24:337][340]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.31.47:514][474]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.32.14:734][193]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.12-20.32.14:987][193]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2021.01.12-20.32.16:354][272]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.32.16:451][272]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonCharacter5D22F40F4AEA84DC18918F99AE2D5897.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.12-20.32.16:471][272]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.12-20.32.16:471][272]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.12-20.32.25:018][113]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.32.25:094][113]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2021.01.12-20.32.25:351][113]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMapA404CF5C47EBFA8AE1C45AA95D024A04.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.32.25:370][113]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.338
+[2021.01.12-20.32.25:386][113]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.32.25:386][113]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.32.54:780][ 70]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.33.09:494][565]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.33.10:012][604]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.33.23:482][898]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.33.25:258][ 58]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.34.06:703][231]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.35.19:355][507]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.36.21:211][540]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.36.24:193][841]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.36.28:302][246]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.36.29:992][412]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.36.54:247][803]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.12-20.36.54:361][803]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.01.12-20.36.54:951][857]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.36.55:014][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.01.12-20.36.55:260][857]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap4EB90D1143D04431ECBBB09D05E69346.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.36.55:280][857]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.316
+[2021.01.12-20.36.55:301][857]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.36.55:301][857]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.37.39:168][147]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2021.01.12-20.37.39:293][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.01.12-20.37.39:729][191]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.37.39:806][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.01.12-20.37.40:045][191]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMapCEBAEFBB47DC45F4EE7E818215BD2886.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.37.40:068][191]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.318
+[2021.01.12-20.37.40:097][191]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.37.40:098][191]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.38.12:632][299]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.38.14:380][480]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.38.21:711][227]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.38.44:916][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.38.45:917][641]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.39.02:854][156]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.39.06:211][508]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.39.20:811][930]BlueprintLog: New page: Compile KeypadWidget
+[2021.01.12-20.39.20:907][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.01.12-20.39.21:792][994]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.39.21:806][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Widgets/KeypadWidget" FILE="../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Widgets/KeypadWidget.uasset" SILENT=true
+[2021.01.12-20.39.21:844][994]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/KeypadWidget3563121B426F052E64AAF19635591DCA.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Widgets/KeypadWidget.uasset'
+[2021.01.12-20.39.21:865][994]AssetCheck: New page: Asset Save: KeypadWidget
+[2021.01.12-20.39.21:865][994]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/Widgets/KeypadWidget.KeypadWidget
+[2021.01.12-20.39.27:042][465]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.39.27:119][465]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.01.12-20.39.27:375][465]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMapA2A0A4CE46DA74EE7AA7AE936F611147.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.39.27:394][465]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.333
+[2021.01.12-20.39.27:415][465]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.01.12-20.39.27:415][465]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.41.00:366][651]Cmd: TRANSACTION UNDO
+[2021.01.12-20.41.00:366][651]LogEditorTransaction: Undo Move Actors
+[2021.01.12-20.41.00:423][651]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-20.41.00:433][651]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.01.12-20.41.00:433][651]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.01.12-20.41.00:433][651]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.01.12-20.41.00:434][651]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-20.41.00:457][651]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.41.04:566][827]Cmd: TRANSACTION UNDO
+[2021.01.12-20.41.04:566][827]LogEditorTransaction: Undo Move Actors
+[2021.01.12-20.41.04:579][827]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-20.41.04:589][827]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-20.41.04:603][827]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.41.09:338][ 49]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.01.12-20.41.09:442][ 53]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.01.12-20.41.09:453][ 53]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.01.12-20.41.13:643][297]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.01.12-20.41.14:718][371]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.01.12-20.41.14:967][391]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.01.12-20.41.16:736][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.01.12-20.41.18:797][606]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.01.12-20.41.19:409][629]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.01.12-20.41.19:992][653]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.01.12-20.41.20:290][674]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.01.12-20.41.23:128][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.01.12-20.41.23:535][864]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.01.12-20.41.24:177][885]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.01.12-20.41.24:217][886]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.01.12-20.41.24:217][886]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.01.12-20.41.24:217][886]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.01.12-20.41.24:217][886]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.12-20.41.24:217][886]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-20.41.26:080][979]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.01.12-20.41.26:097][979]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.01.12-20.41.26:580][  2]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.01.12-20.41.26:760][ 12]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.41.26:962][ 12]LogUObjectHash: Compacting FUObjectHashTables data took  11.17ms
+[2021.01.12-20.41.27:224][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.01.12-20.41.27:236][ 12]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap296DE304466C4176C4C8C88F05C8FD5C.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.41.28:097][ 12]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltDataE72C548A472942E43552909DEA7551AF.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-20.41.28:130][ 12]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-20.41.28:130][ 12]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-20.41.28:130][ 12]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.41.28:632][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-20.41.28:644][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-20.41.28:644][ 42]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 4:41:28 AM)
+[2021.01.12-20.41.28:680][ 42]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.41.28:750][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069918s)
+[2021.01.12-20.41.28:752][ 42]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-20.41.28:752][ 42]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2021.01.12-20.41.28:752][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.071862s)
+[2021.01.12-20.41.28:972][ 42]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.01.12-20.41.28:972][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.01.12-20.41.28:973][ 42]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2021.01.12-20.41.28:973][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-20.41.28:973][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-20.41.28:973][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-20.41.28:973][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-20.41.28:974][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-20.41.28:974][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-20.41.28:974][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-20.41.28:974][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-20.41.28:974][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-20.41.28:974][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-20.41.28:981][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-20.41.28:981][ 42]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-20.41.28:992][ 42]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-20.41.28:993][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-20.41.28:993][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-20.41.28:993][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-20.41.28:993][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-20.41.28:993][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-20.41.28:993][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-20.41.29:011][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-20.41.29:011][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-20.41.29:011][ 42]LogInit: FAudioDevice initialized.
+[2021.01.12-20.41.29:011][ 42]LogAudio: Display: Audio Device (ID: 84) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-20.41.29:022][ 42]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-20.41.29:042][ 42]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-12.41.29
+[2021.01.12-20.41.29:042][ 42]LogWorld: Bringing up level for play took: 0.019914
+[2021.01.12-20.41.29:043][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2021.01.12-20.41.29:047][ 42]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.01.12-20.41.29:047][ 42]PIE: Server logged in
+[2021.01.12-20.41.29:048][ 42]PIE: Play in editor total start time 0.405 seconds.
+[2021.01.12-20.41.29:917][ 81]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.01.12-20.41.30:768][136]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.01.12-20.41.32:510][238]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-20.41.32:510][238]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-20.41.32:510][238]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.12-20.41.32:733][254]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.01.12-20.41.32:733][254]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.01.12-20.41.32:733][254]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.01.12-20.41.32:733][254]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.12-20.41.32:733][254]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-20.41.37:656][639]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-20.41.37:656][639]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-20.41.51:412][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.41.51:412][714]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.41.51:413][714]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-20.41.51:416][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.41.51:430][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-20.41.51:473][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.41.51:526][714]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-20.41.51:526][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.41.51:527][714]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.41.51:545][714]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.41.51:552][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.01.12-20.41.51:616][715]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2021.01.12-20.42.10:760][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2021.01.12-20.42.47:016][264]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-20.42.47:089][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.01.12-20.42.47:330][264]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap10AF0E7C493FC829DD091186A81226CD.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-20.42.48:066][264]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltDataF2F0E9A74B3E61A285FBF9B85AF4756F.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-20.42.48:096][264]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-20.42.48:096][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-20.42.48:096][264]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-20.42.50:106][406]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-20.42.50:118][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-20.42.50:118][406]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 4:42:50 AM)
+[2021.01.12-20.42.50:118][406]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.42.50:178][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059934s)
+[2021.01.12-20.42.50:179][406]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-20.42.50:180][406]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2021.01.12-20.42.50:180][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.062054s)
+[2021.01.12-20.42.50:231][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.01.12-20.42.50:233][406]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-20.42.50:233][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-20.42.50:233][406]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-20.42.50:233][406]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-20.42.50:240][406]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-20.42.50:240][406]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-20.42.50:248][406]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-20.42.50:249][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-20.42.50:249][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-20.42.50:249][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-20.42.50:249][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-20.42.50:249][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-20.42.50:249][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-20.42.50:265][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-20.42.50:265][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-20.42.50:265][406]LogInit: FAudioDevice initialized.
+[2021.01.12-20.42.50:265][406]LogAudio: Display: Audio Device (ID: 85) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-20.42.50:272][406]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-20.42.50:291][406]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-12.42.50
+[2021.01.12-20.42.50:292][406]LogWorld: Bringing up level for play took: 0.019278
+[2021.01.12-20.42.50:292][406]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2021.01.12-20.42.50:298][406]PIE: Server logged in
+[2021.01.12-20.42.50:299][406]PIE: Play in editor total start time 0.182 seconds.
+[2021.01.12-20.42.53:753][638]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-20.42.53:753][638]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-20.42.53:753][638]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.12-20.42.58:859][ 10]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-20.42.58:859][ 10]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-20.43.06:432][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.43.06:432][549]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-20.43.06:433][549]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-20.43.06:436][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.43.06:446][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-20.43.06:465][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-20.43.06:514][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-20.43.06:515][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.43.06:515][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-20.43.06:539][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-20.43.06:546][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.01.12-20.43.06:596][550]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2021.01.12-20.44.25:390][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x579)
+[2021.01.12-20.52.54:351][897]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-21.09.51:453][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x602)
+[2021.01.12-21.09.53:107][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x603)
+[2021.01.12-21.09.54:196][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x611)
+[2021.01.12-21.09.55:046][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame24)
+[2021.01.12-21.09.58:681][ 85]LogEditorViewport: Clicking on Actor (LMB): MovingPlatform_C (MovingPlatform4)
+[2021.01.12-21.09.59:674][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x614)
+[2021.01.12-21.10.00:630][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x611)
+[2021.01.12-21.10.07:366][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x608)
+[2021.01.12-21.10.08:318][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x605)
+[2021.01.12-21.10.09:210][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x611)
+[2021.01.12-21.10.10:321][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x608)
+[2021.01.12-21.10.11:770][583]LogEditorViewport: Clicking on Actor (LMB): MovingPlatform_C (MovingPlatform3)
+[2021.01.12-21.10.12:679][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x611)
+[2021.01.12-21.10.13:664][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x614)
+[2021.01.12-21.10.14:876][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x613)
+[2021.01.12-21.10.15:493][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x611)
+[2021.01.12-21.10.16:464][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x610)
+[2021.01.12-21.10.20:521][935]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2021.01.12-21.20.36:897][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x602)
+[2021.01.12-21.20.37:894][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x611)
+[2021.01.12-21.20.39:017][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x605)
+[2021.01.12-21.20.43:372][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x600)
+[2021.01.12-21.20.45:225][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x602)
+[2021.01.12-21.20.47:707][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x600)
+[2021.01.12-21.20.50:875][362]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2021.01.12-21.23.02:375][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.23.03:477][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.23.16:939][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.01.12-21.23.24:753][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.23.26:608][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.23.29:045][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.01.12-21.23.29:844][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.23.31:135][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.23.32:777][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.23.33:732][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.01.12-21.23.34:736][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.23.35:673][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.23.36:874][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.23.37:554][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.01.12-21.23.38:803][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.24.20:636][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.24.22:554][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.24.23:575][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.24.24:748][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.24.25:714][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.24.57:358][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.24.58:271][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2021.01.12-21.24.59:033][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube49)
+[2021.01.12-21.24.59:689][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube51)
+[2021.01.12-21.25.02:229][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x599)
+[2021.01.12-21.25.05:320][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x598)
+[2021.01.12-21.25.07:073][999]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox3)
+[2021.01.12-21.26.59:026][172]LogRenderer: Reallocating scene render targets to support 2308x1272 Format 10 NumSamples 1 (Frame:3114010).
+[2021.01.12-21.26.59:203][172]LogRenderer: Reallocating scene render targets to support 2336x1272 Format 10 NumSamples 1 (Frame:3114011).
+[2021.01.12-21.47.41:214][332]LogRenderer: Reallocating scene render targets to support 2424x1272 Format 10 NumSamples 1 (Frame:3166201).
+[2021.01.12-21.47.41:383][333]LogRenderer: Reallocating scene render targets to support 2492x1272 Format 10 NumSamples 1 (Frame:3166203).
+[2021.01.12-21.47.53:378][747]LogRenderer: Reallocating scene render targets to support 2496x1272 Format 10 NumSamples 1 (Frame:3166738).
+[2021.01.12-21.55.52:779][705]LogRenderer: Reallocating scene render targets to support 2504x1272 Format 10 NumSamples 1 (Frame:3187283).
+[2021.01.12-21.55.57:006][831]LogRenderer: Reallocating scene render targets to support 2532x1272 Format 10 NumSamples 1 (Frame:3187458).
+[2021.01.12-21.55.57:174][832]LogRenderer: Reallocating scene render targets to support 2536x1272 Format 10 NumSamples 1 (Frame:3187460).
+[2021.01.12-21.55.57:412][833]LogRenderer: Reallocating scene render targets to support 2540x1272 Format 10 NumSamples 1 (Frame:3187462).
+[2021.01.12-21.55.57:576][834]LogRenderer: Reallocating scene render targets to support 2596x1272 Format 10 NumSamples 1 (Frame:3187464).
+[2021.01.12-21.55.57:860][837]LogRenderer: Reallocating scene render targets to support 2600x1272 Format 10 NumSamples 1 (Frame:3187468).
+[2021.01.12-21.55.58:031][838]LogRenderer: Reallocating scene render targets to support 2616x1272 Format 10 NumSamples 1 (Frame:3187470).
+[2021.01.12-22.07.13:665][183]LogRenderer: Reallocating scene render targets to support 2620x1272 Format 10 NumSamples 1 (Frame:3215095).
+[2021.01.12-22.07.13:847][183]LogRenderer: Reallocating scene render targets to support 2648x1272 Format 10 NumSamples 1 (Frame:3215096).
+[2021.01.12-22.07.14:211][183]LogRenderer: Reallocating scene render targets to support 2664x1272 Format 10 NumSamples 1 (Frame:3215098).
+[2021.01.12-22.07.14:400][183]LogRenderer: Reallocating scene render targets to support 2668x1272 Format 10 NumSamples 1 (Frame:3215099).
+[2021.01.12-22.07.15:297][183]LogRenderer: Reallocating scene render targets to support 2676x1272 Format 10 NumSamples 1 (Frame:3215104).
+[2021.01.12-22.07.15:484][183]LogRenderer: Reallocating scene render targets to support 2684x1272 Format 10 NumSamples 1 (Frame:3215105).
+[2021.01.12-22.07.15:699][183]LogRenderer: Reallocating scene render targets to support 2688x1272 Format 10 NumSamples 1 (Frame:3215106).
+[2021.01.12-22.07.15:875][183]LogRenderer: Reallocating scene render targets to support 2696x1272 Format 10 NumSamples 1 (Frame:3215107).
+[2021.01.12-22.07.16:170][183]LogRenderer: Reallocating scene render targets to support 2700x1272 Format 10 NumSamples 1 (Frame:3215108).
+[2021.01.12-22.07.16:346][183]LogRenderer: Reallocating scene render targets to support 2708x1272 Format 10 NumSamples 1 (Frame:3215109).
+[2021.01.12-22.07.18:283][253]LogRenderer: Reallocating scene render targets to support 2712x1272 Format 10 NumSamples 1 (Frame:3215180).
+[2021.01.12-22.59.46:634][960]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.00.32:451][728]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-23.00.32:465][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-23.00.32:465][728]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 7:00:32 AM)
+[2021.01.12-23.00.32:465][728]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.00.32:542][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076080s)
+[2021.01.12-23.00.32:543][728]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-23.00.32:544][728]LogPlayLevel: PIE: World Init took: (0.002481s)
+[2021.01.12-23.00.32:544][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.078957s)
+[2021.01.12-23.00.32:671][728]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2021.01.12-23.00.32:689][728]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-23.00.32:689][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-23.00.32:689][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-23.00.32:690][728]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-23.00.32:690][728]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-23.00.32:698][728]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-23.00.32:698][728]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-23.00.32:710][728]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-23.00.32:710][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-23.00.32:710][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-23.00.32:710][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-23.00.32:712][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-23.00.32:712][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-23.00.32:712][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-23.00.32:728][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-23.00.32:728][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-23.00.32:728][728]LogInit: FAudioDevice initialized.
+[2021.01.12-23.00.32:728][728]LogAudio: Display: Audio Device (ID: 86) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-23.00.32:737][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-23.00.32:757][728]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-15.00.32
+[2021.01.12-23.00.32:758][728]LogWorld: Bringing up level for play took: 0.021319
+[2021.01.12-23.00.32:758][728]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2021.01.12-23.00.32:763][728]PIE: Server logged in
+[2021.01.12-23.00.32:764][728]PIE: Play in editor total start time 0.3 seconds.
+[2021.01.12-23.00.35:137][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.01.12-23.00.35:381][803]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMapAD2911C84BB5E58B35DA1EAE5FABADD3.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-23.00.36:075][803]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltData7BB4BFF64041036CAF45538DA707ED16.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-23.00.36:086][803]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-23.00.36:086][803]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-23.00.36:086][803]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-23.02.03:387][252]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-23.02.03:387][252]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-23.02.03:387][252]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.12-23.02.03:512][257]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-23.02.03:512][257]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-23.02.15:679][738]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-23.02.15:679][738]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-23.02.15:679][738]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.01.12-23.02.19:422][885]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-23.02.19:422][885]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-23.03.49:449][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.03.49:449][440]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.03.49:450][440]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-23.03.49:453][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.03.49:472][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-23.03.49:515][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.03.49:565][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-23.03.49:565][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.03.49:566][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.03.49:586][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.03.49:594][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.01.12-23.03.49:662][441]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2021.01.12-23.03.57:060][721]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_500x539)
+[2021.01.12-23.03.57:087][721]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.03.57:750][742]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_500x539)
+[2021.01.12-23.03.57:757][742]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.04.03:833][957]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2021.01.12-23.04.15:990][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube44)
+[2021.01.12-23.04.22:491][684]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube43)
+[2021.01.12-23.04.23:362][716]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube41)
+[2021.01.12-23.04.27:171][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube40)
+[2021.01.12-23.04.29:911][970]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube42)
+[2021.01.12-23.05.02:994][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2021.01.12-23.05.07:116][427]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox2)
+[2021.01.12-23.05.29:895][268]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-23.05.29:910][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-23.05.29:910][268]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 7:05:29 AM)
+[2021.01.12-23.05.29:910][268]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.05.29:974][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063998s)
+[2021.01.12-23.05.29:976][268]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-23.05.29:977][268]LogPlayLevel: PIE: World Init took: (0.002720s)
+[2021.01.12-23.05.29:977][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.067031s)
+[2021.01.12-23.05.30:035][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.01.12-23.05.30:040][268]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-23.05.30:040][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-23.05.30:040][268]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-23.05.30:040][268]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-23.05.30:046][268]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-23.05.30:046][268]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-23.05.30:053][268]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-23.05.30:053][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-23.05.30:053][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-23.05.30:053][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-23.05.30:054][268]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-23.05.30:054][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-23.05.30:054][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-23.05.30:071][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-23.05.30:071][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-23.05.30:071][268]LogInit: FAudioDevice initialized.
+[2021.01.12-23.05.30:071][268]LogAudio: Display: Audio Device (ID: 87) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-23.05.30:083][268]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-23.05.30:102][268]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-15.05.30
+[2021.01.12-23.05.30:103][268]LogWorld: Bringing up level for play took: 0.019875
+[2021.01.12-23.05.30:103][268]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2021.01.12-23.05.30:108][268]PIE: Server logged in
+[2021.01.12-23.05.30:109][268]PIE: Play in editor total start time 0.201 seconds.
+[2021.01.12-23.06.35:975][857]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-23.06.35:975][857]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-23.06.35:975][857]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.12-23.06.36:127][863]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-23.06.36:128][863]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-23.06.38:520][957]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-23.06.38:520][957]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-23.06.38:520][957]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.01.12-23.06.43:121][138]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-23.06.43:121][138]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-23.06.59:319][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.06.59:319][775]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.06.59:320][775]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-23.06.59:324][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.06.59:335][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-23.06.59:357][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.06.59:409][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-23.06.59:409][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.06.59:410][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.06.59:430][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.06.59:437][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.01.12-23.06.59:502][776]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2021.01.12-23.07.17:816][490]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube36)
+[2021.01.12-23.07.17:825][490]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.18:733][513]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.19:068][517]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.22:339][588]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.24:733][635]Cmd: PIVOT HERE
+[2021.01.12-23.07.40:004][210]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube36)
+[2021.01.12-23.07.40:013][210]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.40:890][233]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.40:961][234]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.41:022][235]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.41:237][238]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.41:758][246]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.44:251][293]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.07.59:918][600]Cmd: PIVOT HERE
+[2021.01.12-23.08.22:163][472]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube36)
+[2021.01.12-23.08.22:172][472]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.08.22:624][485]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.08.23:469][501]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.08.25:335][538]Cmd: PIVOT HERE
+[2021.01.12-23.08.55:064][709]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.55:064][709]LogEditorTransaction: Undo Delete Keys
+[2021.01.12-23.08.55:090][709]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.55:100][709]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.55:107][709]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.12-23.08.55:107][709]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.01.12-23.08.55:107][709]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2021.01.12-23.08.55:111][709]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.08.55:689][728]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.55:689][728]LogEditorTransaction: Undo Set Key
+[2021.01.12-23.08.55:724][728]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.55:734][728]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.56:241][744]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.01.12-23.08.56:250][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.01.12-23.08.56:285][745]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.56:285][745]LogEditorTransaction: Undo Rotate Actors
+[2021.01.12-23.08.56:300][745]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.01.12-23.08.56:321][745]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.56:330][745]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.56:920][763]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.56:920][763]LogEditorTransaction: Undo Rotate Actors
+[2021.01.12-23.08.56:957][763]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.56:966][763]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.57:043][766]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.12-23.08.57:093][768]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.01.12-23.08.57:130][769]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.01.12-23.08.57:820][789]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.57:820][789]LogEditorTransaction: Undo Rotate Actors
+[2021.01.12-23.08.57:832][789]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.01.12-23.08.57:856][789]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.57:865][789]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.57:906][791]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.12-23.08.57:956][793]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.01.12-23.08.58:302][803]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.01.12-23.08.58:419][806]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.58:419][806]LogEditorTransaction: Undo Actor Movement
+[2021.01.12-23.08.58:454][806]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.58:464][806]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.58:710][814]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.12-23.08.58:752][815]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.01.12-23.08.58:996][822]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.01.12-23.08.59:134][826]Cmd: TRANSACTION UNDO
+[2021.01.12-23.08.59:134][826]LogEditorTransaction: Undo Select Actors/Components
+[2021.01.12-23.08.59:169][826]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.08.59:178][826]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.08.59:582][838]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.12-23.08.59:670][841]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.01.12-23.08.59:772][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.01.12-23.09.00:404][863]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.01.12-23.09.00:469][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.01.12-23.09.00:478][865]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.01.12-23.09.00:940][879]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.01.12-23.09.01:267][888]Cmd: TRANSACTION UNDO
+[2021.01.12-23.09.01:267][888]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.12-23.09.01:298][888]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.01.12-23.09.01:302][888]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.09.01:312][888]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.09.01:452][893]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.01.12-23.09.01:778][902]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.01.12-23.09.01:806][903]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2021.01.12-23.09.02:332][919]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.01.12-23.09.02:518][924]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.01.12-23.09.02:550][925]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.01.12-23.09.02:800][933]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.01.12-23.09.02:959][937]Cmd: TRANSACTION UNDO
+[2021.01.12-23.09.02:959][937]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.12-23.09.02:994][937]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.09.03:004][937]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.09.03:369][949]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.01.12-23.09.03:378][949]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.01.12-23.09.03:582][955]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.01.12-23.09.03:759][960]Cmd: TRANSACTION UNDO
+[2021.01.12-23.09.03:759][960]LogEditorTransaction: Undo Delete Keys
+[2021.01.12-23.09.03:795][960]LogMaterial: Display: Missing cached shader map for material Green, compiling. 
+[2021.01.12-23.09.03:805][960]LogMaterial: Display: Missing cached shader map for material Red, compiling. 
+[2021.01.12-23.09.04:122][969]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.01.12-23.09.04:202][972]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.01.12-23.09.04:258][973]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.01.12-23.09.04:912][993]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.01.12-23.09.04:920][993]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.01.12-23.09.05:094][998]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.01.12-23.09.05:401][  7]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.01.12-23.09.05:824][ 20]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.01.12-23.09.05:995][ 25]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.01.12-23.09.06:211][ 31]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.01.12-23.09.06:282][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.01.12-23.09.06:710][ 46]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.01.12-23.09.06:776][ 48]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.01.12-23.09.06:910][ 53]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.01.12-23.09.06:953][ 54]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.01.12-23.09.06:953][ 54]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.01.12-23.09.06:953][ 54]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.01.12-23.09.06:953][ 54]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.12-23.09.06:953][ 54]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-23.09.07:621][ 81]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.01.12-23.09.07:685][ 83]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.01.12-23.09.07:734][ 85]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.01.12-23.09.08:186][103]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.01.12-23.09.08:567][118]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.01.12-23.09.08:623][120]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.01.12-23.09.09:072][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.01.12-23.09.09:128][140]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.01.12-23.09.09:890][170]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.01.12-23.09.09:890][170]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.01.12-23.09.09:890][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.01.12-23.09.09:890][170]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.01.12-23.09.09:890][170]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.12-23.09.35:858][168]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.01.12-23.10.06:349][326]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-23.10.06:362][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-23.10.06:362][326]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 7:10:06 AM)
+[2021.01.12-23.10.06:363][326]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.10.06:429][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065794s)
+[2021.01.12-23.10.06:430][326]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-23.10.06:430][326]LogPlayLevel: PIE: World Init took: (0.002041s)
+[2021.01.12-23.10.06:430][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.068143s)
+[2021.01.12-23.10.06:491][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.01.12-23.10.06:496][326]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-23.10.06:497][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-23.10.06:497][326]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-23.10.06:497][326]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-23.10.06:504][326]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-23.10.06:504][326]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-23.10.06:512][326]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-23.10.06:512][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-23.10.06:512][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-23.10.06:512][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-23.10.06:513][326]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-23.10.06:513][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-23.10.06:513][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-23.10.06:530][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-23.10.06:530][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-23.10.06:530][326]LogInit: FAudioDevice initialized.
+[2021.01.12-23.10.06:530][326]LogAudio: Display: Audio Device (ID: 88) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-23.10.06:536][326]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-23.10.06:556][326]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-15.10.06
+[2021.01.12-23.10.06:556][326]LogWorld: Bringing up level for play took: 0.019488
+[2021.01.12-23.10.06:557][326]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2021.01.12-23.10.06:561][326]PIE: Server logged in
+[2021.01.12-23.10.06:562][326]PIE: Play in editor total start time 0.201 seconds.
+[2021.01.12-23.10.10:712][482]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-23.10.10:712][482]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-23.10.10:712][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.12-23.10.16:171][698]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-23.10.16:171][698]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-23.10.28:609][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.10.28:609][183]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.10.28:610][183]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-23.10.28:613][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.10.28:623][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-23.10.28:667][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.10.28:715][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-23.10.28:716][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.10.28:717][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.10.28:737][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.10.28:746][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.01.12-23.10.28:810][184]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2021.01.12-23.10.39:445][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.10.39:611][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.01.12-23.10.39:847][551]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMapEEFAD3004EFEF311277E7392F73B069F.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-23.10.40:533][551]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltDataBB81EB644C3E036BC10583AB69D68368.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-23.10.40:584][551]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-23.10.40:584][551]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-23.10.40:584][551]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-23.12.42:765][ 69]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.12.43:378][ 79]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.12.50:051][289]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.12.54:006][401]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.12-23.12.54:233][401]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.01.12-23.12.55:612][428]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.12.55:842][428]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonCharacter5C1421D54D91F039D2C23299C4CD5A7C.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.12-23.12.55:894][428]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.12-23.12.55:894][428]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.12-23.12.58:472][490]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.12.58:656][490]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.01.12-23.12.58:893][490]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap35167E8A4B5C595140C3D3823A64ECA3.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-23.12.59:586][490]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltDataA8F61BAA4E42EC0DFB2DF184572CF354.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-23.12.59:637][490]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-23.12.59:637][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-23.12.59:637][490]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.12-23.13.02:656][583]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.12-23.13.02:668][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.12-23.13.02:669][583]PIE: New page: PIE session: FirstPersonExampleMap (Jan 12, 2021, 7:13:02 AM)
+[2021.01.12-23.13.02:669][583]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.13.02:732][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063232s)
+[2021.01.12-23.13.02:734][583]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.01.12-23.13.02:735][583]LogPlayLevel: PIE: World Init took: (0.002200s)
+[2021.01.12-23.13.02:735][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.065746s)
+[2021.01.12-23.13.02:789][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.01.12-23.13.02:792][583]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.12-23.13.02:792][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.12-23.13.02:792][583]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.12-23.13.02:792][583]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.12-23.13.02:798][583]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.12-23.13.02:798][583]LogAudioMixer: Display: 1: FrontRight
+[2021.01.12-23.13.02:806][583]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.01.12-23.13.02:806][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.12-23.13.02:806][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.12-23.13.02:806][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.12-23.13.02:807][583]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.12-23.13.02:807][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.12-23.13.02:807][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.12-23.13.02:823][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.12-23.13.02:823][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.12-23.13.02:823][583]LogInit: FAudioDevice initialized.
+[2021.01.12-23.13.02:823][583]LogAudio: Display: Audio Device (ID: 89) registered with world 'FirstPersonExampleMap'.
+[2021.01.12-23.13.02:830][583]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.12-23.13.02:850][583]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.01.12-15.13.02
+[2021.01.12-23.13.02:851][583]LogWorld: Bringing up level for play took: 0.020096
+[2021.01.12-23.13.02:851][583]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2021.01.12-23.13.02:856][583]PIE: Server logged in
+[2021.01.12-23.13.02:858][583]PIE: Play in editor total start time 0.19 seconds.
+[2021.01.12-23.13.06:535][721]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.01.12-23.13.06:535][721]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.01.12-23.13.06:535][721]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.12-23.13.12:202][945]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.01.12-23.13.12:202][945]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.12-23.13.23:418][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.13.23:418][387]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.01.12-23.13.23:419][387]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.12-23.13.23:422][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.13.23:463][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.12-23.13.23:504][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.12-23.13.23:554][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.12-23.13.23:554][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.13.23:555][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.12-23.13.23:574][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.12-23.13.23:582][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.01.12-23.13.23:650][388]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2021.01.12-23.13.31:824][663]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2021.01.12-23.13.31:994][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.01.12-23.13.32:227][663]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap15C7CF7C4D3568293C2C21861BA07895.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.12-23.13.32:912][663]LogSavePackage: Moving '../../../../../../GitHub/UnrealProject1/MyProject/Saved/FirstPersonExampleMap_BuiltDataEAFDB1CE4675C4CEE6DE5BB759967BEE.tmp' to '../../../../../../GitHub/UnrealProject1/MyProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.12-23.13.32:965][663]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.12-23.13.32:965][663]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.12-23.13.32:965][663]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
